@@ -1,9 +1,33 @@
+Apuntes Aula Virtual
+
+ADD001: N-Tier Arch https://www.coursehero.com/file/ppopj8/Fig-3-tier-architecture-3-tier-pros-and-cons-Advantage-Disadvantage-Development/
+					https://www.codeproject.com/articles/430014/n-tier-architecture-and-tips
+
+ADD002: Event Driven https://hackernoon.com/best-practices-for-event-driven-microservice-architecture-e034p21lk 
+					 https://www.quora.com/What-are-the-pros-and-cons-of-Event-driven-Programming-over-the-other-paradigms
+					 https://docs.microsoft.com/es-es/azure/architecture/guide/architecture-styles/event-driven
+					 
+ADD003: Client-Server model https://www.quora.com/What-are-some-advantages-and-disadvantages-of-client-server-networks
+							http://www.exforsys.com/tutorials/programming-concepts/pros-and-cons-of-client-server-computing.html
+					 
+ADD005: Factory Design Pattern https://www.quora.com/What-are-the-pros-and-cons-of-the-factory-design-pattern
+					   http://uttakarshtikku.blogspot.com/2015/12/pros-and-cons-of-factory-design-pattern.html
+					 
+					 
 State Design Pattern https://www.geeksforgeeks.org/state-design-pattern/
-Factory Design Pattern https://www.quora.com/What-are-the-pros-and-cons-of-the-factory-design-pattern
-Arquitectura dirigida en eventos https://docs.microsoft.com/es-es/azure/architecture/guide/architecture-styles/event-driven
-Arquitectura por capas https://www.codeproject.com/articles/430014/n-tier-architecture-and-tips
+
+
+
+
 Floyd Warshall https://jcrd0730.wixsite.com/estr/single-post/2016/05/25/ALGORITMO-DE-FLOYD-1
+
 Traducción Trados http://blog.open-idiomes.es/index.php/2012/06/12/trados-pros-y-contras/
-https://www.easycallcloud.com/es/hp-es/
-https://www.harris.com/solution/harris-falcon-iii-rf-7800m-mp-multiband-networking-manpack-radio-mnbr
-https://www.adamhall.com/shop/bo-es/equipos-de-sonido-y-megafonia/amplificadores/amplificadores-de-pa/5378/w-9000-dsp
+
+Centro de llamadas https://www.easycallcloud.com/es/hp-es/
+
+Radio Harris https://www.harris.com/solution/harris-falcon-iii-rf-7800m-mp-multiband-networking-manpack-radio-mnbr
+
+dsp9000 https://www.adamhall.com/shop/bo-es/equipos-de-sonido-y-megafonia/amplificadores/amplificadores-de-pa/5378/w-9000-dsp
+
+21: Proxy Pattern https://refactoring.guru/design-patterns/proxy
+
